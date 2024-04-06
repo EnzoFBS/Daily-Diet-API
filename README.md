@@ -32,5 +32,5 @@ Desenvolver a **Daily Diet API** foi uma oportunidade de aplicar conceitos apren
 
 ## Autor
 Seu nome ou apelido  
-GitHub: [SeuNome](link_do_seu_perfil_no_github)  
-LinkedIn: [SeuPerfilLinkedIn](link_do_seu_perfil_no_linkedin)
+GitHub: EnzoFBS
+LinkedIn: linkedin.com/in/enzo-silvestre/
